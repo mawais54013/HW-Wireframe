@@ -15,6 +15,8 @@ header
     line-height: 65px;
     height: 70px;
     width: 970px;
+
+    margin: 0 230px;
 }
 nav
 {
@@ -24,7 +26,7 @@ nav
     width: 970px;
     text-align: center;
     line-height: 65px;
-    margin: 10px 0 22px 0;
+    margin: 10px 230px 22px 230px;
 }
 section 
 {
@@ -36,6 +38,7 @@ section
     text-align: center;
     line-height: 90px;
     margin-top: 1px;
+    margin: 10px 230px;
 }
 aside 
 {
@@ -43,14 +46,14 @@ aside
     float: right;
     width: 465px;
     height: 265px;
-    margin: 0px -10px 0 -10px;
+    margin: 10px -250px;
 }
 footer
 {
     background: #ebebeb;
     width: 970px;
     height: 70px;
-    margin: 320px 0 320px 0;
+    margin: 320px 230px 320px 230px;
     text-align: center;
     line-height: 65px;
 }
