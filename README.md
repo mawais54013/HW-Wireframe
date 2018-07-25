@@ -1,6 +1,6 @@
 # Wireframe
 
-Learning html, css, floats, positioning
+Learning html, css, floats, positioning, box model 
 
 # Link to deployed site
 
@@ -22,7 +22,7 @@ Learning html, css, floats, positioning
 
         <section>section<article>article<h1>h1,h2,h3</h1><p>p</p></article></section>
         <aside><p>aside</p></aside>
-    </body>
+</body>
 ```
 # Author
-Muhammad Awais
+[Muhammad Awais](https://github.com/mawais54013/HW-Wireframe)
