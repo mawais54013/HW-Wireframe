@@ -15,7 +15,6 @@ header
     line-height: 65px;
     height: 70px;
     width: 970px;
-
     margin: 0 230px;
 }
 nav
@@ -56,6 +55,7 @@ footer
     margin: 320px 230px 320px 230px;
     text-align: center;
     line-height: 65px;
+    
 }
 article 
 {
