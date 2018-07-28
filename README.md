@@ -4,7 +4,7 @@ Learning html, css, floats, positioning, box model
 
 # Link to deployed site
 
-[hw-wireframe](https://mawais54013.github.io/HW-Wireframe/)
+[hw-wireframe](https://mawais54013.github.io/Wireframe/)
 
 # Images
 ![wireframe](images/wireframe.png)
